@@ -7,4 +7,5 @@ The added metadata can then be further inspected to use tools to check rules tha
 
 == Modules
 
-- `jddd-core` -- Annotations to demarcate the building blocks of Domain-Driven Design. 
+- `jddd-core` -- Annotations to demarcate the building blocks of Domain-Driven Design.
+- `jddd-jackson` -- A Jackson module to customize the rendering of value objects etc.
