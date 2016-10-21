@@ -1,0 +1,10 @@
+= jDDD
+
+== Overview
+
+The building blocks of Domain-Driven Design are usually directly or implicitly represented in Java code. The goal of this library is to provide means to more explicitly express those concepts.
+The added metadata can then be further inspected to use tools to check rules that apply to the concepts or the interaction of them.
+
+== Modules
+
+- `jddd-core` -- Annotations to demarcate the building blocks of Domain-Driven Design. 
